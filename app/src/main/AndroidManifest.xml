@@ -20,6 +20,10 @@
             android:name=".Ola"
             android:label="@string/title_activity_ola" >
         </activity>
+        <activity
+            android:name=".TesteGitHub"
+            android:label="@string/title_activity_teste_git_hub" >
+        </activity>
     </application>
 
 </manifest>
